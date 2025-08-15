@@ -10,7 +10,7 @@
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 - 🌱 Currently learning about **Java Springboot , FramesWorks & Sql Server**<br/>
 - 💬 Ask me about **Java Springboot  & Web Development**<br/>
-- 📫 How to reach me [📩](sayan18karmakar@gmail.com)<br/>
+- 📫 How to reach me [📩](mailto:sayan18karmakar@gmail.com)<br/>
 - 🌷 #learninginpublic
 
 # 💻 Tech Stack
