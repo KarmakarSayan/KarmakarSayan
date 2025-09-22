@@ -31,6 +31,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
 
 
-<!-- # 📊 GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=KarmakarSayan&show_icons=true&card_width=400&theme=tokyonight)
+
+<!-- 📊 GitHub Stats -->
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<div align="center">
+  <!-- GitHub overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KarmakarSayan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="400" />
+
+  <!-- GitHub streak stats (Vercel hosted, more stable) -->
+ <!-- <img src="https://streak-stats.demolab.com/?user=KarmakarSayan&theme=tokyonight" width="400" /> -->
+</div>
+
 
