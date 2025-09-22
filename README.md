@@ -33,4 +33,4 @@
 
 <!-- # 📊 GitHub Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=KarmakarSayan&show_icons=true&card_width=400&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com?user=KarmakarSayan&card_width=400&theme=tokyonight)
+
