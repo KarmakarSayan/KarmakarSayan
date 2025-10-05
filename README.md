@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hi, I'm Sayan Karmakar</h1>
+<img src="https://cdn-icons-png.flaticon.com/256/5072/5072860.png" align="right" width="215">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-karmakar-b82302234/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)](https://sayan-karmakar.netlify.app/)
 
-<img src="https://cdn-icons-png.flaticon.com/256/5072/5072860.png" align="right" width="215">
+
 
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 - 🌱 Currently learning about **Java Springboot , FramesWorks & Sql Server**<br/>
